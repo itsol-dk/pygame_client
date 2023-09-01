@@ -22,6 +22,8 @@ def my_answer0(my_var):
 ```
 ### Lets submit our answer
 ```game.answer(0,my_answer0(game.data(0)))```
+
 It will tell you right away whether the answer is right or wrong
 You can at any point see the score by calling 
+
 ```game.score()```
