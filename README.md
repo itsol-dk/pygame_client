@@ -4,7 +4,6 @@ Client for the pygame
 ### First start python in interactive mode
 ```python3```
 ### Import the challenge game (make sure that you are in the same folder)
-### You can download the “challenge.py” file from fronter “Mandatory” -> “mandatory-part01-challenge”
 ```import challenge```
 ### Connect to the game server
 ```game=challenge.client(ip_address="IP",port=39594)```
