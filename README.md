@@ -11,7 +11,7 @@ import challenge
 ```
 ### Connect to the game server
 ```python
-game=challenge.client(ip_address="IP",port=PORT_NO)
+game=challenge.client(ip_address=IP, port=PORT_NO)
 ```
 ### Login 
 ```python
