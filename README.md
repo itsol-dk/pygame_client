@@ -1,10 +1,6 @@
 # pygame_client
 Client for the pygame
 
-### First start python in interactive mode
-```python
-python3
-```
 ### Import the challenge game (make sure that you are in the same folder)
 ```python
 import challenge
