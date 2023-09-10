@@ -6,7 +6,7 @@ Client for the pygame
 ### Import the challenge game (make sure that you are in the same folder)
 ```import challenge```
 ### Connect to the game server
-```game=challenge.client(ip_address="IP",port=39594)```
+```game=challenge.client(ip_address="IP",port=PORT_NO)```
 ### Login 
 ```game.login("test1234","testensen")```
 
